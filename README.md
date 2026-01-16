@@ -4,10 +4,15 @@ Text classification pipeline to predict sentiment from customer reviews. Transfo
 
 🧠 Steps
 -Text preprocessing: remove stopwords, strip punctuation, apply lemmatization
+<br>
 -Feature extraction: represent text using Bag of Words (BoW) and TF-IDF vectors
+<br>
 -Model building: train and compare Logistic Regression, Naive Bayes, Random Forest, and XGBoost
+<br>
 -Model evaluation: measure Accuracy, Precision, Recall, F1-Score, and analyze Confusion Matrix results
+<br>
 -Visualization: explore sentiment distribution and generate word clouds for insights
+<br>
 -Deployment: package and serve your sentiment analysis model for practical use cases
 
 🛠️ Tools & Libraries
