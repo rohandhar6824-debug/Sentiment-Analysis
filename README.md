@@ -1,6 +1,6 @@
 # Sentiment-Analysis
  Sentiment Analysis Project using Machine Learning and NLP in Python :
-Text classification pipeline to predict sentiment from customer reviews.Transform raw text into meaningful features, train multiple machine learning models, and evaluate their performance — all while gaining practical NLP skills for real-world applications.
+Text classification pipeline to predict sentiment from customer reviews. Transform raw text into meaningful features, train multiple machine learning models, and evaluate their performance.
 
 🧠 Steps
 Text preprocessing: remove stopwords, strip punctuation, apply lemmatization
